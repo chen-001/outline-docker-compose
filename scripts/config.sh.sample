@@ -1,5 +1,5 @@
 # The url used to vist this web site.
-URL=http://0.0.0.0:1615
+URL=http://43.143.223.158:1615
 # The default interface language. See translate.getoutline.com for a list of
 # available language codes and their rough percentage translated.
 DEFAULT_LANGUAGE=en_US
